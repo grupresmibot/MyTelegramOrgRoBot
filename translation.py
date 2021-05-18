@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """Hi!
-please read the TnC before proceeding: https://t.me/SpEcHlDe/889
+    START_TEXT = """Salam
+please read the TnC before proceeding: https://t.me/azetelegrambattle
 Thank you for using me 😬
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
